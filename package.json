@@ -1,0 +1,19 @@
+{
+  "name": "stun",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "mert",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "chalk": "^4.1.0",
+    "discord.js": "^12.2.0",
+    "loader.js": "^4.7.0",
+    "moment": "^2.27.0",
+    "quick.db": "^7.1.1"
+  }
+}
